@@ -1,0 +1,40 @@
+_repo: The-Book-of-the-BushWho-Left-Their-Native-Land-And-Never-Returned_16349
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Macfarlane, J.
+    gutenberg_agent_id: '6648'
+    url: http://www.gutenberg.org/2009/agents/6648
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dunderdale, George
+    birthdate: 1822
+    deathdate: 1903
+    gutenberg_agent_id: '6647'
+    url: http://www.gutenberg.org/2009/agents/6647
+description: ''
+gutenberg_issued: '2005-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16349'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frontier and pioneer life -- Australia'
+- !lcsh 'Australia -- History -- Anecdotes'
+- !lcc 'DU'
+- !lcsh 'Australia -- History -- 1788-1900'
+- !lcsh 'Australia -- Description and travel'
+title: 'The Book of the Bush
+
+  Containing Many Truthful Sketches Of The Early Colonial
+
+  Life Of Squatters, Whalers, Convicts, Diggers, And Others
+
+  Who Left Their Native Land And Never Returned'
+url: http://www.gutenberg.org/ebooks/16349
